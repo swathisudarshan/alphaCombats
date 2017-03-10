@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Speed
+comment1.params=
+comment1.target=Speed()
+comment2.params=prefix
+comment2.target=Speed(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ getValue()
+comment4.text=public\ void\ add(int\ score)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ target\ +\=\ score;\r\n}
+comment5.params=
+comment5.target=void\ updateImage()
+comment5.text=\r\n\ Make\ the\ image\r\n
+comment6.params=
+comment6.target=void\ update()
+numComments=7

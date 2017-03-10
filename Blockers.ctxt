@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Blockers
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Vehicle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Blockers()
+comment10.params=i
+comment10.target=Component\ getChild(int)
+comment11.params=
+comment11.target=java.util.List\ getAllChild()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Vehicle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ moveDown()
+comment4.params=
+comment4.target=void\ moveFaster()
+comment5.params=
+comment5.target=void\ randomImage()
+comment6.params=
+comment6.target=void\ check()
+comment7.params=
+comment7.target=void\ setFasterFlag()
+comment8.params=c
+comment8.target=void\ addChild(Component)
+comment9.params=c
+comment9.target=void\ removeChild(Component)
+numComments=12

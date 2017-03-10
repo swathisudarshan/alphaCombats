@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=ConcreteSubject
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ConcreteSubject\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ConcreteSubject()
+comment2.params=
+comment2.target=int\ getScore()
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=addScore
+comment4.target=void\ setScore(int)
+comment5.params=addSpeed
+comment5.target=void\ setSpeed(int)
+comment6.params=o
+comment6.target=void\ attach(Observer)
+comment7.params=o
+comment7.target=void\ detach(Observer)
+comment8.params=
+comment8.target=void\ notifyObservers()
+numComments=9

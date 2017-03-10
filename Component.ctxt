@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Component
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Component\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=c
+comment1.target=void\ addChild(Component)
+comment2.params=c
+comment2.target=void\ removeChild(Component)
+comment3.params=i
+comment3.target=Component\ getChild(int)
+comment4.params=
+comment4.target=java.util.List\ getAllChild()
+comment5.params=
+comment5.target=void\ setFasterFlag()
+numComments=6

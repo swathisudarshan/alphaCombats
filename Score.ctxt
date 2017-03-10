@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Counter\ that\ displays\ a\ number.\r\n\ \r\n\ @author\ Michael\ Kolling\r\n\ @version\ 1.0.1\r\n
+comment1.params=
+comment1.target=Score()
+comment2.params=prefix
+comment2.target=Score(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ getValue()
+comment5.params=
+comment5.target=void\ updateImage()
+comment5.text=\r\n\ Make\ the\ image\r\n
+comment6.params=
+comment6.target=void\ update()
+numComments=7
